@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Falguni (Rani)</h1>
+<h1 align="center">Hi 👋, I'm Falguni</h1>
 
 <p align="center">
   <img src="profile.png" width="150" style="border-radius:50%"/>
