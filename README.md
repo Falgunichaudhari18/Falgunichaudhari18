@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Falguni (Rani)</h1>
+
+<p align="center">
+  <img src="profile.png" width="150" style="border-radius:50%"/>
+</p>
+
 # 💫 About Me:
 Hi, I'm Falguni👋<br>A passionate developer who loves building real-world solutions using technology.<br><br>💻 I enjoy working on AI/ML, Flutter, and Full Stack projects<br>📱 I build mobile apps using Flutter & Android Studio<br>🚀 Currently exploring Machine Learning, Backend Development & APIs<br>🌱 Always learning and improving my problem-solving skills<br>🔍 Interested in creating impactful applications that solve real-life problems<br>⚡ I believe in learning by building projects<br><br>🎯 What I’m Working On<br>🤖 AI-based applications (Emotion Detection, Agriculture Systems)<br>📱 Mobile app development using Flutter<br>🌐 Web apps using Flask<br>📊 Improving Data Structures & Problem Solving<br><br>
 
