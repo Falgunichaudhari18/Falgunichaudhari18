@@ -22,6 +22,6 @@ Hi, I'm Falguni👋<br>A passionate developer who loves building real-world solu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Falgunichaudhari18&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=falgunichaudhari18&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
